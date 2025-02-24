@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="save_action">Save</string>
+    <string name="required_fields">*required fields</string>
+    <string name="item_entry_title">Add Item\n</string>
+    <string name="no_notes_description">Oops!\nNo notes are added.\nTap + to add.</string>
+    <string name="add_note">Add Your Note</string>
+    <string name="update">UPDATE</string>
+    <string name="note_title_required">title is required!!</string>
+    <string name="note_description_required">note description required!!</string>
+    <string name="add_image">Add Image</string>
+</resources>
